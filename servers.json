@@ -1,5 +1,13 @@
 [
     {
+        "id": "astrolands",
+        "name": "AstroLands Network",
+        "addresses": [
+            "play.astrolands.ge"
+            "play.auroramc.xyz"
+        ]
+    },
+    {
         "id": "muffinized",
         "name": "Muffinized Network",
         "addresses": [
